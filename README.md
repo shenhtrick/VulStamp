@@ -6,7 +6,9 @@
 
 
 # COMPARISON OF DATASET PARTITIONING SCHEMES BETWEEN SVACL AND VULSTAMP
-<img width="643" height="186" alt="image" src="https://github.com/user-attachments/assets/bf0a3101-d414-4966-b56d-739535f3bb65" />
+
+<img width="914" height="459" alt="image" src="https://github.com/user-attachments/assets/af12c0cc-3de3-4a18-9d30-496226061a11" />
+
 
 # Please note that due to size limitations, our dataset and Joern can be downloaded from the following link: 
 (https://drive.google.com/drive/folders/1h2VA4k08qaJ57MEXrztMGrQfM75aw7PI?usp=drive_link)
